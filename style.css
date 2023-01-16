@@ -1,0 +1,60 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    color: black;
+}
+body
+{
+    background:linear-gradient(95deg, #bdc3c7, #2c3e50) ;
+    padding: 5%;
+}
+table
+{
+    background-color: rgb(236, 195, 195);
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+caption
+{
+    background-color: rgb(211, 153, 153);
+    border-radius: 20px 20px 0px 0px;
+    padding: 5px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.head
+{
+    background-color: #e600ff;
+}
+tr,td
+{
+    text-align: center;
+    border: 1px solid black;;
+    background-color: rgb(91, 98, 166);
+    padding: 20px;
+}
+button
+{
+    padding: 20px;
+    width: 400px;
+    background-color: rgb(96, 149, 176);
+    margin-top: 30px;
+    border-radius: 30px;
+    border: none;
+}
+a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color:rgb(255, 255, 255)
+}
+img
+{
+    height: 30px;
+    width: 30px;
+}
+input
+{
+    text-align: center;
+}
